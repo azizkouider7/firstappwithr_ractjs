@@ -1,0 +1,28 @@
+.post {
+  padding: 26px;
+  border-radius: 12px;
+  /* margin: 107px; */
+  margin-top: 28px;
+  height: 76px;
+  width: 516px;
+  margin-left: 263px;
+  border-style: solid;
+  border-color: #4caf93;
+  margin-bottom: 35px;
+}
+.posttitle {
+  color: #5a605f;
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: -13px;
+  margin-left: 191px;
+  margin-bottom: 15px;
+  font-size: 34px;
+}
+.postcontent {
+  color: #1a1b1b;
+  font-size: 13px;
+  margin-left: 191px;
+  margin-top: 16px;
+  margin-bottom: 10px;
+}

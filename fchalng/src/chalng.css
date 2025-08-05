@@ -1,0 +1,13 @@
+.uper {
+  background-color: #4caf93;
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+  width: 100%;
+}
+h1 {
+  color: white;
+  font-size: 44px;
+  margin: 0;
+  padding: 24px;
+}
